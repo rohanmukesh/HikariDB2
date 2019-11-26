@@ -19,10 +19,6 @@
     </properties>
     <repositories>
         <repository>
-            <id>oracle</id>
-            <url>https://mvnrepository.com/artifact/com.oracle.jdbc/ojdbc8</url>
-        </repository>
-        <repository>
             <id>com.ibm.db2.jcc</id>
             <url>https://artifacts.alfresco.com/nexus/content/repositories/public/</url>
         </repository>
